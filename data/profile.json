@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0",
+  "source": "synthetic",
+  "confidentiality": "public-demo",
+  "name": "Mazher Hussain",
+  "primaryTitle": "Test Manager | QA Delivery Lead | Test Lead",
+  "specialisms": [
+    "AI-enabled Quality Engineering",
+    "Data Migration",
+    "Payments and Integration",
+    "Release Assurance"
+  ],
+  "eyebrow": "Human-led. AI-enabled. Evidence-driven.",
+  "valueProposition": "I turn complex requirements, integrations, data and delivery risk into traceable quality evidence and defensible release decisions.",
+  "profileStatement": "Senior QA leader combining human judgement with AI-assisted analysis, artefact development, code review and evidence-led assurance.",
+  "clearances": [
+    {
+      "id": "nz-security-clearance",
+      "label": "NZ National Security Clearance",
+      "level": "Confidential",
+      "authority": "NZSIS vetted",
+      "image": "NZ-national-security-clearance.png"
+    },
+    {
+      "id": "nz-police-vetting",
+      "label": "NZ Police Vetting",
+      "level": "Previously vetted",
+      "authority": "New Zealand Police",
+      "image": "NZ-Police-vetting.png"
+    },
+    {
+      "id": "nz-citizenship",
+      "label": "New Zealand Citizen",
+      "level": "Full work rights",
+      "authority": "Department of Internal Affairs",
+      "image": "New-Zealand-citizenship.png"
+    },
+    {
+      "id": "au-work-rights",
+      "label": "Australian Work Rights",
+      "level": "Special Category (Subclass 444)",
+      "authority": "Home Affairs Australia",
+      "image": "Australian-work-rights.png"
+    }
+  ],
+  "metrics": [
+    {
+      "label": "Years in IT & QA",
+      "value": "14+ Years",
+      "sub": "Enterprise Delivery"
+    },
+    {
+      "label": "QA Team Leadership",
+      "value": "5-Person Team",
+      "sub": "Cross-Functional"
+    },
+    {
+      "label": "Delivery Builds Assured",
+      "value": "3 Delivery Builds",
+      "sub": "Zero Disruption"
+    },
+    {
+      "label": "Sector Scope",
+      "value": "Government & Banking",
+      "sub": "Regulated Cloud"
+    }
+  ]
+}
